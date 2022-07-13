@@ -1,0 +1,39 @@
+*{
+    background-color:whitesmoke;
+}
+
+h1{
+    text-align: center;
+    /* border:2px groove whitesmoke;
+    border-radius: 10px solid orange; */
+    font-weight:bold ;
+    color:red;
+    font-style: italic;
+    text-shadow: 2px 2px 2px violet;
+}
+a{
+    text-decoration: none;
+}
+h1:hover{
+    font-size: 40px;
+}
+header,form,section,fieldset:hover{
+    border:5px groove whitesmoke;
+    border-radius: 10px;
+}
+section{
+    text-align: center;
+    background-image: url('/StaticPage/Html/3857134.jpg');
+    background-attachment: unset;
+    background-size: cover;
+    height: 440px;
+}
+header{
+    text-align: right;
+}
+/* #bgm{
+    background-image: url('/StaticPage/Html/3857134.jpg');
+    background-attachment: unset;
+    background-size: cover;
+    
+} */
